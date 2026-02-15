@@ -20,12 +20,6 @@ Tugas ini mencakup beberapa manipulasi data menggunakan library **Pandas** untuk
 * **🔢 Value Counts:** Menghitung distribusi frekuensi perusahaan di berbagai negara.
 * **💰 Analisis Ekonomi (Studi Kasus Indonesia):** Mengonversi gaji USD ke IDR dan membandingkannya dengan standar UMR Indonesia.
 
----
-
 ## Teknologi yang Digunakan
-
-| Teknologi | Fungsi |
-| :--- | :--- |
-| **Python 3.x** | Bahasa pemrograman utama. |
 | **Pandas** | Untuk manipulasi dan analisis data. |
 | **Jupyter Notebook** | Sebagai lingkungan pengembangan (*IDE*). |
