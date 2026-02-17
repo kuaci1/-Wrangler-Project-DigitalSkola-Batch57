@@ -1,10 +1,10 @@
-# Data Wrangling Project: Salary Analysis 📊
+# Data Wrangling Project: Salary Analysis 
 
 **Digital Skola - Data Engineering/Science Homework**
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan eksplorasi data (*Exploratory Data Analysis*) dan pemrosesan data (*Data Wrangling*) pada dataset gaji pekerjaan di bidang data. 
-
+selain dari itu ini adalah tugas kelompok boothcamp di digitalscola
 Fokus utama proyek ini adalah melakukan:
 * Filtering data.
 * Pengelompokan (*grouping*).
@@ -20,6 +20,3 @@ Tugas ini mencakup beberapa manipulasi data menggunakan library **Pandas** untuk
 * **🔢 Value Counts:** Menghitung distribusi frekuensi perusahaan di berbagai negara.
 * **💰 Analisis Ekonomi (Studi Kasus Indonesia):** Mengonversi gaji USD ke IDR dan membandingkannya dengan standar UMR Indonesia.
 
-## Teknologi yang Digunakan
-| **Pandas** | Untuk manipulasi dan analisis data. |
-| **Jupyter Notebook** | Sebagai lingkungan pengembangan (*IDE*). |
